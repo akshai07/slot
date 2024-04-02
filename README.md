@@ -1,8 +1,8 @@
 # Ex03 Time Table
 ## Date: 29-03-2024
-## Name: Suriya Pravin M
-## Reg.no: 212223230223
-## Dept: AIDS
+## Name: Akshai Khanna D
+## Reg.no: 212223040010
+## Dept: CSE
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -37,7 +37,7 @@ Execute the program using runserver command.
         <img src="/static/logo.png" height="100" width="500">
         <br>
         <table align="center" width="500" cellsapacing="2" cellpadding="5" border="5">
-            <caption><b>SLOT TIME TABLE - Suriya Pravin M (212223230223)</b></caption>
+            <caption><b>SLOT TIME TABLE - Akshai Khanna D (212223040010)</b></caption>
             <tr align="center">
                 <th bgcolor="green">DAY/TIME</th>
                 <th bgcolor="green">MONDAY</th>
